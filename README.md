@@ -1,2 +1,2 @@
-# reacty-state-recoil
+# react-atmicdesign
 Created with CodeSandbox
